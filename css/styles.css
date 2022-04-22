@@ -145,3 +145,30 @@ p {
   }
 
 }
+
+#cta  {
+  text-align: center;
+  background-color: #ff4c68;
+  padding: 7% 15%;
+}
+
+.cta-heading {
+  font-family: Montserrat;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  color: white;
+}
+
+#footer {
+  text-align: center;
+}
+
+.bottom_icons {
+  margin: 10px 20px;
+  /* background-color: white; */
+  /* border-style: none; */
+}
+
+#footer {
+  padding: 7% 15%;
+}
